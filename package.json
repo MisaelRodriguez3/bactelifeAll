@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node back/index.js",
-    "dev": "nodemon back/index.js"
+    "start": "node estimationtool-bactelife/index.js",
+    "dev": "nodemon estimationtool-bactelife/index.js"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +16,6 @@
     "bcryptjs": "^2.4.3",
     "connect-history-api-fallback": "^2.0.0",
     "cookie-parser": "^1.4.6",
-    "cors": "^2.8.5",
     "express": "^4.18.2",
     "googleapis": "^128.0.0",
     "jsonwebtoken": "^9.0.2",
